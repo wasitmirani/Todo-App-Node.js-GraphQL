@@ -12,9 +12,12 @@ This repository contains a Todo application built using Node.js and GraphQL. Thi
    ```bash
    git clone github.com/wasitmirani/Todo-App-Node.js-GraphQL.git
 
-Navigate to the project directory:
+## Navigate to the project directory:
 
-cd Todo-App-Node.js-GraphQL
+  ```bash
+    cd Todo-App-Node.js-GraphQL
+```
+
 
 Install dependencies using npm or yarn:
 
